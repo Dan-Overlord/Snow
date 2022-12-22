@@ -1,0 +1,15 @@
+D:\проекты\C#\Snow\bin\Debug\net6.0\Snow.exe
+D:\проекты\C#\Snow\bin\Debug\net6.0\Snow.deps.json
+D:\проекты\C#\Snow\bin\Debug\net6.0\Snow.runtimeconfig.json
+D:\проекты\C#\Snow\bin\Debug\net6.0\Snow.dll
+D:\проекты\C#\Snow\bin\Debug\net6.0\Snow.pdb
+D:\проекты\C#\Snow\obj\Debug\net6.0\Snow.csproj.AssemblyReference.cache
+D:\проекты\C#\Snow\obj\Debug\net6.0\Snow.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекты\C#\Snow\obj\Debug\net6.0\Snow.AssemblyInfoInputs.cache
+D:\проекты\C#\Snow\obj\Debug\net6.0\Snow.AssemblyInfo.cs
+D:\проекты\C#\Snow\obj\Debug\net6.0\Snow.csproj.CoreCompileInputs.cache
+D:\проекты\C#\Snow\obj\Debug\net6.0\Snow.dll
+D:\проекты\C#\Snow\obj\Debug\net6.0\refint\Snow.dll
+D:\проекты\C#\Snow\obj\Debug\net6.0\Snow.pdb
+D:\проекты\C#\Snow\obj\Debug\net6.0\Snow.genruntimeconfig.cache
+D:\проекты\C#\Snow\obj\Debug\net6.0\ref\Snow.dll
